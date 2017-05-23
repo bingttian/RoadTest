@@ -1,0 +1,57 @@
+﻿生成启动时间为 2017/5/23 13:02:14。
+     1>项目“C:\Users\Ma\Desktop\RoadTest 5.12(加下一个功能，改加载文件bug)\RoadTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\RoadTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\RoadTest.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RoadTestDlg.cpp
+         RoadTestDlg.cpp
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(606): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(619): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(631): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(641): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(650): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(707): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(724): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(748): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(769): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(830): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(839): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(854): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(863): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(878): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ma\desktop\roadtest 5.12(加下一个功能，改加载文件bug)\roadtestdlg.cpp(888): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\RoadTest.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib /MANIFEST /ManifestFile:".\Debug\RoadTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ma\Desktop\RoadTest 5.12(加下一个功能，改加载文件bug)\Debug\RoadTest.pdb" /SUBSYSTEM:WINDOWS /HEAP:"16000000","16000000" /STACK:"16000000","16000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\RoadTest.lib" /MACHINE:X86 .\Debug\RoadTest.res
+         .\Debug\RoadTest.exe.embed.manifest.res
+         .\Debug\RoadTest.obj
+         .\Debug\RoadTestDlg.obj
+         .\Debug\OpenGL.obj
+         .\Debug\StdAfx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\RoadTest.exe.embed.manifest" /manifest .\Debug\RoadTest.exe.intermediate.manifest "d:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         RoadTest.vcxproj -> C:\Users\Ma\Desktop\RoadTest 5.12(加下一个功能，改加载文件bug)\.\Debug\RoadTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\RoadTest.unsuccessfulbuild”。
+         正在对“.\Debug\RoadTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Ma\Desktop\RoadTest 5.12(加下一个功能，改加载文件bug)\RoadTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.57
